@@ -8,7 +8,7 @@ I am the **founder of Intellimint**, the world's first AI antivirus platform, de
 
 I have a strong track record in **AI-driven business models**, having previously founded and scaled multiple startups, including a **$1M e-commerce company** and an **audiobook distribution platform**. My work has directly contributed to **raising over $63,000 for charity** and expanding educational access through **Simple Sci Wiki**, a science knowledge platform with over 5,000 pages.  
 
-In addition, I host **"The AI Revolution"**, a podcast that has reached **2.5 million listeners**, where I break down complex AI topics, cybersecurity threats, and ethical concerns in artificial intelligence.  
+In addition, I host **"The AI Revolution Podcast"**, where I break down complex AI topics, cybersecurity threats, and ethical concerns in artificial intelligence.  
 
 ## **Current Focus: AI Security & Cyber Defense**  
 - **Exposing AI vulnerabilities** in publicly available models, including DeepSeek R1, which generates **malware, social engineering attacks, and adversarial datasets**.  
